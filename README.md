@@ -24,7 +24,3 @@
 [![skills](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]
 [![skills](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]
 </div>
-
-<div style="max-width: 30%" align="right">
-<p align="right"> <img height="500px" src="https://stepholt.com/wp-content/uploads/2023/10/stepholt-brand-background-hacker-website-agency.jpg" /></p>
-</div>
